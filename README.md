@@ -33,16 +33,7 @@ Welcome to the Weather Flutter App! This app provides current weather informatio
    flutter pub get
    ```
 
-   
-3. **Add your API key:**
-
-   Open the `search_weather/weather_app/lib/services/services.dart` file and replace `YOUR_API_KEY` with your actual API key.
-
-   ```dart
-   final String apiKey = 'YOUR_API_KEY';
-   ```
-
-4. **Run the app:**
+3. **Run the app:**
 
    ```bash
    flutter run
