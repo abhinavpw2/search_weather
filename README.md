@@ -38,10 +38,6 @@ Welcome to the Weather Flutter App! This app provides current weather informatio
    ```bash
    flutter run
    ```
-   
-### APK File
-
-You can directly download and install the APK file located in the root directory of this repository. The file is named `app-release.apk`.
 
 ## Usage
 
