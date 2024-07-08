@@ -13,7 +13,7 @@ class WeatherServices {
     //log("cityname"+cityName);
     final response = await http.get(
       Uri.parse(
-          "https://api.openweathermap.org/data/2.5/weather?q=$cityName&appid=853762467190d191835d9d3e2e9d1881"),
+          "https://api.openweathermap.org/data/2.5/weather?q=$cityName&appid=128ddabdc3d852dd5975c8f15ba648d7"),
     ); // ${toBeginningOfSentenceCase(cityName)}
     try {
       if (response.statusCode == 200) {
